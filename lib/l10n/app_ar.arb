@@ -1,0 +1,13 @@
+{
+    "language": "اللغة",
+    "languageValue": "العربية",
+    "helloWorld": "!مرحبا بالعالم",
+    "hello": "مرحبا {username}",
+    "change":"تغيير",
+    "logOut":"تسجيل الخروج",
+    "theme":"التنسيق",
+    "dark":"داكن",
+    "light":"فاتح",
+    "custom":"مخصص",
+    "chooseColor":"اختر لون"
+}

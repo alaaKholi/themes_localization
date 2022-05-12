@@ -1,0 +1,23 @@
+{
+    "language": "language",
+    "languageValue": "English",
+    "helloWorld": "Hello World!",
+    "hello": "Hello {username}",
+    "@hello": {
+      "placeholders": {
+         "username": {
+           "type": "String"
+         }
+      }
+    },
+    "change":"change",
+    "logOut":"log Out",
+    "theme":"Theme",
+    "dark":"Dark",
+    "light":"Light",
+    "custom":"custom",
+    "chooseColor":"Choose Color"
+
+
+
+}
