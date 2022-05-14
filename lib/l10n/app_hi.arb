@@ -1,0 +1,13 @@
+{
+    "language": "اللغة",
+    "languageValue": "मानक हिन्दी",
+    "helloWorld": "नमस्ते दुनिया!",
+    "hello": "नमस्ते {username}",
+    "change":"تغيير",
+    "logOut":"تسجيل الخروج",
+    "theme":"التنسيق",
+    "dark":"داكن",
+    "light":"فاتح",
+    "custom":"مخصص",
+    "chooseColor":"اختر لون"
+}
