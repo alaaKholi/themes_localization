@@ -61,7 +61,7 @@ class SettingsScreen extends StatelessWidget {
             children: AppLocalization.all
                 .map(
                   (e) => ListTile(
-                    title: Text(e.fullName()),
+                    title: Text(e.fullName),
                     leading: Text(AppLocalization.getFlag(e.languageCode)),
                     onTap: () {
                       controller.setLocale(e);

@@ -41,7 +41,7 @@ class AppLocalization {
 }
 
 extension FullName on Locale {
-  String fullName() {
+  String get fullName {
     switch (languageCode) {
       case 'en':
         return 'English';
@@ -53,7 +53,7 @@ extension FullName on Locale {
       case 'es':
         return 'Espani';
       case 'de':
-        return 'Deee';
+        return 'Deutsch';
     }
     return '';
   }
